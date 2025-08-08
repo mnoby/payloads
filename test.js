@@ -1,4 +1,4 @@
-function myFunction() {
+export function myFunction() {
     console.log("ahahahah")
     return "Hello WOrld";
   }
